@@ -66,3 +66,15 @@ a {
   text-decoration: none;
   text-shadow: 1px 1px 2px;
 }
+
+.card {
+  border-radius: 5px;
+  height: 400px;
+  margin: 2rem;
+  position: relative;
+  width: 300px;
+}
+
+.card .content {
+  font-size: 18px;
+}
