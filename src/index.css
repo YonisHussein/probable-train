@@ -13,7 +13,8 @@ code {
 }
 
 :root {
-  --navy: #202836
+  --navy: #202836;
+  --ascentblue: #2f4d87;
 }
 
 * {
@@ -39,4 +40,29 @@ h1 {
   margin: 20px;
   margin-left: 20px;
   margin-right: 20px;
+}
+
+.card {
+  border-radius: 5px;
+  height:400px;
+  margin: 2rem;
+  position: relative;
+  width: 400px;
+  background-color: var(--ascentblue);
+}
+
+a {
+  background: none;
+}
+
+#header {
+  display: flex;
+  margin-left: 5px;
+}
+
+#navigation {
+  align-items: flex-end;
+  font-size: 22px;
+  text-decoration: none;
+  text-shadow: 1px 1px 2px;
 }
