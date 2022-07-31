@@ -33,3 +33,10 @@ h1 {
   font-weight: bold;
   color: #c1ccde;
 }
+
+#contact-section {
+  justify-content: center;
+  margin: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
