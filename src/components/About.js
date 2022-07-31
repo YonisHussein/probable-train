@@ -8,7 +8,7 @@ function About() {
 
             <div>
                 
-                <p>I'm Yonis Hussein, prior to this I was a newbie in the field of coding. With hardwork and determination I'm willing to learn the ins and outs of the programming world!</p>
+                <p>My name is Yonis Hussein, I do not have any background in the field of Computer Science before entering this Bootcamp. I enjoy the feeling of learning more and expanding my knowledge in coding.</p>
 
             </div>
         </section>

@@ -12,8 +12,24 @@ code {
     monospace;
 }
 
+:root {
+  --navy: #202836
+}
+
+* {
+  background: var(--navy);
+}
+
 p {
-  font-size: 24px;
+  font-size: 16px;
   font-weight: bold;
   text-align: center;
+  color: #c1ccde;
+}
+
+h1 {
+  margin: auto 30px;
+  padding: 10px;
+  font-weight: bold;
+  color: #c1ccde;
 }
