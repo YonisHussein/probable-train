@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Text Editor",
+        "github": "https://github.com/YonisHussein/goku-saiyan.git"
+    },
+    {
+        "id": 2,
+        "name": "Employee Tracker",
+        "github": "https://github.com/YonisHussein/chickennoodlesoup.git"
+    },
+    {
+        "id": 3,
+        "name": "E-Commerce Back End",
+        "github": "https://github.com/YonisHussein/animated-giggle.git" 
+    }
+]
