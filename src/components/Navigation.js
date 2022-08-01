@@ -1,15 +1,8 @@
 import React from "react";
-import {NavLink} from "react-router-dom";
 
-function Navigation() {
-
-    return (
-        <div>
-            <NavLink to="/about">About </NavLink>
-            <NavLink to="/portfolio">Portfolio </NavLink>
-            <NavLink to = "/contact">Contact</NavLink>
-        </div>
-    )
+function Navigation(props) {
+    const tabs = ['About Me', 'Portfolio', 'Contact'];
+    return ()
 }
 
 export default Navigation;
