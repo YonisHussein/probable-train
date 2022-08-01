@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+## Motivation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To build a Portfolio for my future Employee
+
+## Technology Used
+
+React
+JavaScript
+HTML
+CSS
+express
+Node.js
+
+![](./public/Capture.PNG)
 
 ## Available Scripts
 

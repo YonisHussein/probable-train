@@ -31,3 +31,33 @@
     transform: rotate(360deg);
   }
 }
+
+:root {
+  --navy: #e6fafc;
+}
+
+* {
+  background: var(--navy);
+}
+
+p {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  
+}
+
+h1 {
+  margin: auto 30px;
+  padding: 10px;
+  font-weight: bold;
+  
+}
+
+#contact-section {
+  justify-content: center;
+  margin: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
