@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/probable-train/static/css/main.b7c3b59f.css",
+    "main.js": "/probable-train/static/js/main.2ffd4615.js",
+    "index.html": "/probable-train/index.html",
+    "main.b7c3b59f.css.map": "/probable-train/static/css/main.b7c3b59f.css.map",
+    "main.2ffd4615.js.map": "/probable-train/static/js/main.2ffd4615.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7c3b59f.css",
+    "static/js/main.2ffd4615.js"
+  ]
+}
